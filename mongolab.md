@@ -6,6 +6,6 @@ Relacional: Este paradigma utiliza tablas (filas y columnas) para organizar los 
 
 No relacional: es un enfoque alternativo al modelo relacional tradicional utilizado en las bases de datos SQL. NoSQL se refiere a un conjunto de tecnologías de bases de datos que se centran en la escalabilidad horizontal, la flexibilidad en la estructura de datos y el rendimiento en entornos con grandes volúmenes de datos y altas demandas de velocidad de lectura y escritura.
 
-Red: Los datos se organizan como grafo y los registros se conectan mediante enlaces múltiples.
+Red: Los datos se organizan como grafo y los registros se conectan mediante enlaces múltiples. El modelo orientado a objetos es útil cuando se trabaja con sistemas complejos y objetos con comportamiento asociado.
 
 Orientado a Objetos: Los datos se organizan en objetos que tienen atributos y métodos, oermite almacenar objetos completos en la base de datos.
